@@ -9,3 +9,7 @@ Requirements
 * Mayavi
 * Exifread
 * Python Imaging Library (PIL) or Pillow
+
+License
+==========
+Apache 2.0
